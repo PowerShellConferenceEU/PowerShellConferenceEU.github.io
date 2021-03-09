@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "route": "/example.html",
+      "serve": "/",
+      "statusCode": 301
+    }
+ ],
+  "platformErrorOverrides": [
+    {
+      "errorType": "NotFound",
+      "serve": "/custom-404.html"
+    }
+  ]
+}
