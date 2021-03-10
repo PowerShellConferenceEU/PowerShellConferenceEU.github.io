@@ -27,8 +27,8 @@
       <p>
         We understand that those of you who opted for a voucher need information and a variety of options. We are planning to hold psconf.eu in 2022, anyone with a voucher:
         <ul class="mt-4">
-          <li>Can use that voucher for 2022 – Nothing for you to do, we will roll the voucher over with some automation 😉</li>
-          <li>Can be fully reimbursed to the original payment account. (details for requesting this will follow)</li>
+          <li>can use that voucher for 2022 – Nothing for you to do, we will roll the voucher over with some automation 😉</li>
+          <li>can be fully reimbursed to the original payment account. (details for requesting this will follow)</li>
         </ul>
       </p>
       <p>
@@ -43,7 +43,7 @@
       </p>
       <p>
         <strong>
-          Thank you for your patience and support,
+          Thank you for your patience and support,<br />
           Tobias and the PowerShell Conference Europe organizers.
         </strong>
       </p>

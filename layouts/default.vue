@@ -5,7 +5,7 @@
       <b-row>
         <b-col sm="12" md="4" class="p-0">
           <h1 class="bg-black p-4">PowerShell Conference <span class="color-green">Europe 2021</span></h1>
-          <h2 class="p-4 strike">Hannover, June 2021</h2>
+          <h2 class="p-4 text-gray">Hannover, June 2021</h2>
         </b-col>
         <b-col sm="12" md="8">
           <Nuxt />
@@ -18,33 +18,28 @@
 
 <style>
 html, body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #363636;
   color: #ffffff;
-  font-family: 'Roboto Mono';
-  letter-spacing: -0.50px;
+  letter-spacing: -0.3px;
 }
 
 .color-green {
   color: rgb(47, 255, 186);
 }
 
-.strike {
-  text-decoration: line-through;
-}
-
-.bg-red {
-  background-color: rgba(255, 0, 0, 0.753);
-}
-
 .bg-gray {
   color: #363636;
   background-color: #ffffffcc;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text-gray {
+  color: #bbbbbb;
 }
 
 .page-enter-active,
 .page-leave-active {
-  transition: opacity 0.5s;
+  transition: opacity 0.2s;
 }
 .page-enter,
 .page-leave-to {
@@ -66,7 +61,8 @@ p {
 
 h1, h2, h3, h4 {
   font-weight: 600;
-  letter-spacing: -1px;
+  letter-spacing: -1.5px;
+  font-family: 'Roboto Mono';
 }
 
 </style>

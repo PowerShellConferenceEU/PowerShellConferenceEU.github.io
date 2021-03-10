@@ -10,7 +10,7 @@
         </b-col>
         <b-col sm="8" md="12" class="text-center">
           <p class="p-2"><span class="p-2 bg-black">Thanks to our sponsors</span></p>
-          <a class="text-white" href="https://powershell.one"><b-img fluid src="~/assets/styles/images/400x300_powershellone.png" width="200px" />PowerShell.one</a>
+          <a class="text-white" href="https://powershell.one" alt="Sponsored by PowerShell.one"><b-img fluid src="~/assets/styles/images/400x300_powershellone.png" width="200px" />PowerShell.one</a>
         </b-col>
       </b-row>
       <b-row>
