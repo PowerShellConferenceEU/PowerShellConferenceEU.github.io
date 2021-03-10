@@ -2,7 +2,7 @@
   <div class="bg-gray p-3 shadow">
     <div class="mt-0 bg-gray p-3 shadow">
       <div>
-      <h4>A message from the PowerShell Conference Europe organizers:</h4>
+      <div class="pagetitle">A message from the PowerShell Conference Europe organizers:</div>
       <p class="text-dark">March 2021</p>
       </div>
       <p>

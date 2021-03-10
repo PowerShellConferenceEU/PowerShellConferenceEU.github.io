@@ -7,7 +7,7 @@
           <h1 class="bg-black p-4">PowerShell Conference <span class="color-green">Europe 2021</span></h1>
           <h2 class="p-4 text-gray">Hannover, June 2021</h2>
         </b-col>
-        <b-col sm="12" md="8">
+        <b-col sm="12" md="8" class="normaltext">
           <Nuxt />
         </b-col>
       </b-row>
@@ -18,10 +18,14 @@
 
 <style>
 html, body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto Mono';
   background-color: #363636;
   color: #ffffff;
   letter-spacing: -0.3px;
+}
+
+.normaltext {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .color-green {
@@ -59,10 +63,19 @@ p {
   color: #ffffff;
 }
 
-h1, h2, h3, h4 {
-  font-weight: 600;
+.white:hover {
+  color: #ffffff88;
+}
+
+h1, h2, h3, .pagetitle {
+  font-weight: 800;
   letter-spacing: -1.5px;
   font-family: 'Roboto Mono';
+}
+
+
+.pagetitle {
+  font-size: 22px;
 }
 
 </style>
