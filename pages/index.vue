@@ -2,44 +2,22 @@
   <div class="bg-gray p-3 shadow">
     <div class="mt-0 bg-gray p-3 shadow">
       <div>
-      <div class="pagetitle">A message from the PowerShell Conference Europe organizers:</div>
-      <p class="text-dark">March 2021</p>
+      <div class="pagetitle">psconf.eu 2022 event cancelled - <b-link href="https://form.jotform.com/201262280123339">refunds now available</b-link></div>
+      <p class="text-dark">8th June, 2021</p>
       </div>
       <p>
         <strong>
-          Firstly, we wish all of our PowerShell friends and colleagues the very best in these different times.
-          We hope that everyone is and continues to be safe and well.
+        With deep regret we realize that psconf.eu 2021 would have just ended, with many friends and colleagues travelling home filled with great memories, passion, new inspiration and ideas.
         </strong>
       </p>
       <p>
-        Due to Coronavirus and the limitations that come with it,
-        we are sad to have to announce that we will be unable to hold psconf.eu in 2021.
+        Instead, the pandemic situation did not allow us to hold <b-link href="https://psconf.eu">psconf.eu</b-link> for the second time in a row. Even though we hope for the best, we don’t know when that will be possible, either. 
       </p>
       <p>
-        PowerShell Conference Europe is much more than the sessions,
-        we always try to create a joyful, supportive, friendly atmosphere where everyone
-        can come together to learn, share, network, and socialize. 
-      </p>
-      <p>
-        It has become obvious to us, that no matter how much we wish for it, 
-        neither travelling conditions, legal guidelines, nor broad vaccination will be in a position that would allow us to organize this event in June with the quality and safety that it requires.
-      </p>
-      <p>
-        We understand that those of you who opted for a voucher need information and a variety of options. We are planning to hold psconf.eu in 2022, anyone with a voucher:
-        <ul class="mt-4">
-          <li>can use that voucher for 2022 – Nothing for you to do, we will roll the voucher over with some automation 😉</li>
-          <li>can be fully reimbursed to the original payment account. (details for requesting this will follow)</li>
-        </ul>
-      </p>
-      <p>
-        In addition, we are working on some small-scale events including specialized online classes and possibly a come-together event in fall that you will be able to use the voucher for as well.
-        Keep an eye on the usual social media channels for further details.
-      </p>
-      <p>
-        Please be a bit patient with us. We’ll publish all details by end of May. Currently, most of our team members are kept very busy by Corona-related challenges. For example, I temporarily returned to my old profession and work seven days a week as a MD to get as many people vaccinated as possible. Once we can all return to our normal lives, we’ll publish all voucher options on psconf.eu and hopefully also a confirmed date for psconf.eu 2022.
-      </p>
-      <p>
-        A year ago, none of us would have thought that Coronavirus could take away two full conference seasons from us (and so many others).
+        We’ll keep you updated - but as promised before, starting now, anyone holding a valid psconf.eu voucher can request an automated full refund to the original paying account.
+        Alternatively, you can let us know what kind of upcoming services or events you’d like to use the voucher for.</p>
+      <p class="border p-2">
+        Please visit the dedicated <b-link href="https://form.jotform.com/201262280123339">refund or reuse website</b-link> to make your choices.
       </p>
       <p>
         <strong>

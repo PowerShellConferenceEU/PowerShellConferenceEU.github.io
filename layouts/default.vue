@@ -4,8 +4,8 @@
     <b-container fluid>
       <b-row>
         <b-col sm="12" md="4" class="p-0">
-          <h1 class="bg-black p-4">PowerShell Conference <span class="color-green">Europe 2021</span></h1>
-          <h2 class="p-4 text-gray">Hannover, June 2021</h2>
+          <h1 class="bg-black p-4">PowerShell Conference <span class="color-green">Europe</span></h1>
+          <h2 class="p-4 text-gray">2022 event cancelled</h2>
         </b-col>
         <b-col sm="12" md="8" class="normaltext">
           <Nuxt />
